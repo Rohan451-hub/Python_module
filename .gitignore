@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.npy
+*.npz
+*.csv
+*.png
+*.pdf
